@@ -2,3 +2,6 @@
 .vscode/
 
 vendor/
+
+main.go
+weather-harvester-svc
